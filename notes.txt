@@ -1,0 +1,18 @@
+The current python script (minus reset) is sending back the following for 
+taking a picture:
+
+sgithens@sgithens-Dell-DXP061:~/code/VC0706-Serial-Camera-Library$ python getimage0706.py 
+['v', '\x00', '\x11', '\x00', '\x0b', 'V', 'C', '0', '7', '0', '3', ' ', '1', '.', '0', '0']
+VC0706 Camera found
+Awesome picture taking!
+['v', '\x00', '6', '\x00', '\x00']
+Snap!
+48428 bytes to read
+
+Serial dump from VC Comm Tool geting a successful image:
+
+ASCII:
+
+
+
+HEX:
